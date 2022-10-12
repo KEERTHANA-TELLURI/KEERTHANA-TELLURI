@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KEERTHANA-TELLURI
 - 👀 I’m interested in problem solving, coding & technologies
-- 🌱 I’m currently learning JavaScript, PHP, Angular
+- 🌱 I’m currently learning NodeJS, ExpressJS, Sequelize, React Native
 - 💞️ I’m looking to collaborate on full stack development projects
 - 📫 How to reach me? - `telluri.keerthana@gmail.com`
 
